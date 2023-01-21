@@ -1,0 +1,9 @@
+import java.util.*;
+class assignment 8
+{
+public static void main(String args[])
+{
+	int x,y,z;
+
+}
+}
